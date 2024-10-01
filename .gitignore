@@ -163,3 +163,5 @@ cython_debug/
 project-1/word2vec_google_news_300.model
 project-1/word2vec_google_news_300.model.vectors.npy
 project-1/wandb/**/
+project-1/word2vec-google-news-300.model
+project-1/word2vec-google-news-300.model.vectors.npy
