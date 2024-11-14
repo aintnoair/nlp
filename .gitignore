@@ -168,3 +168,5 @@ project-1/best_model.pth
 /project-2/cc.en.300.bin
 /project-2/cc.en.300.bin.gz
 /project-3/checkpoints
+/project-3/nlp_p3_transformer
+/project-3/wandb
