@@ -1,0 +1,41 @@
+{
+  "os": "Linux-5.15.0-122-generic-x86_64-with-glibc2.35",
+  "python": "3.11.9",
+  "startedAt": "2024-11-16T22:35:59.794128Z",
+  "program": "<python with no main file>",
+  "git": {
+    "remote": "git@github.com:aintnoair/nlp.git",
+    "commit": "74d0f58af1f06372e2e79615c2c97c5863390f65"
+  },
+  "email": "aintnoair@unwire.ch",
+  "root": ".",
+  "host": "jupyter-pascal-20th-c3-bcrig",
+  "username": "jovyan",
+  "executable": "/opt/conda/bin/python",
+  "cpu_count": 128,
+  "cpu_count_logical": 128,
+  "gpu": "NVIDIA A16",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "263086084096",
+      "used": "136016867328"
+    }
+  },
+  "memory": {
+    "total": "540862627840"
+  },
+  "cpu": {
+    "count": 128,
+    "countLogical": 128
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA A16",
+      "memoryTotal": "16101933056",
+      "cudaCores": 1280,
+      "architecture": "Ampere"
+    }
+  ],
+  "cudaVersion": "12.2"
+}
