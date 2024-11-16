@@ -2,10 +2,39 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/project-1/wandb/run-20241005_124724-gwy0aw9d" />
+      <excludeFolder url="file://$MODULE_DIR$/project-1/wandb/run-20241005_125026-5686gamx" />
+      <excludeFolder url="file://$MODULE_DIR$/project-1/wandb/run-20241005_125103-y7draajz" />
+      <excludeFolder url="file://$MODULE_DIR$/project-1/wandb/run-20241005_131900-qszee67z" />
+      <excludeFolder url="file://$MODULE_DIR$/project-1/wandb/run-20241005_132036-heag25ph" />
+      <excludeFolder url="file://$MODULE_DIR$/project-1/wandb/run-20241005_133733-zrhf1azl" />
+      <excludeFolder url="file://$MODULE_DIR$/project-1/wandb/run-20241005_134039-syq9zar0" />
+      <excludeFolder url="file://$MODULE_DIR$/project-1/wandb/run-20241005_134113-wfruhqm3" />
+      <excludeFolder url="file://$MODULE_DIR$/project-1/wandb/run-20241005_135126-1zs025zo" />
+      <excludeFolder url="file://$MODULE_DIR$/project-1/wandb/run-20241005_135553-m3biu1dm" />
+      <excludeFolder url="file://$MODULE_DIR$/project-1/wandb/run-20241005_144425-4c6pdj5h" />
+      <excludeFolder url="file://$MODULE_DIR$/project-1/wandb/run-20241005_151055-ru64dsxz" />
+      <excludeFolder url="file://$MODULE_DIR$/project-1/wandb/run-20241005_151327-u8wdg4ox" />
+      <excludeFolder url="file://$MODULE_DIR$/project-1/wandb/run-20241005_151638-lfx7yj2r" />
+      <excludeFolder url="file://$MODULE_DIR$/project-1/wandb/run-20241005_152336-u4tc3fgx" />
+      <excludeFolder url="file://$MODULE_DIR$/project-1/wandb/run-20241005_152431-ls9vfaxa" />
+      <excludeFolder url="file://$MODULE_DIR$/project-1/wandb/run-20241005_154455-1czximnc" />
+      <excludeFolder url="file://$MODULE_DIR$/project-1/wandb/run-20241005_154829-ulzvmlm0" />
+      <excludeFolder url="file://$MODULE_DIR$/project-1/wandb/run-20241005_155323-jbgqv0j0" />
+      <excludeFolder url="file://$MODULE_DIR$/project-1/wandb/run-20241005_160003-2qy558gn" />
+      <excludeFolder url="file://$MODULE_DIR$/project-1/wandb/run-20241005_160257-a74r1isn" />
+      <excludeFolder url="file://$MODULE_DIR$/project-1/wandb/run-20241005_165559-76p9rcgn" />
+      <excludeFolder url="file://$MODULE_DIR$/project-1/wandb/run-20241005_170545-9mv8omio" />
+      <excludeFolder url="file://$MODULE_DIR$/project-1/wandb/run-20241005_170701-zt9j66z4" />
+      <excludeFolder url="file://$MODULE_DIR$/project-1/wandb/run-20241005_171017-4xsa38m5" />
+      <excludeFolder url="file://$MODULE_DIR$/project-1/wandb/run-20241007_204611-6wdmd4hl" />
+      <excludeFolder url="file://$MODULE_DIR$/project-3/wandb/run-20241110_150825-m3xvflrc/logs" />
+      <excludeFolder url="file://$MODULE_DIR$/project-3/wandb/run-20241110_150825-m3xvflrc/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/project-3/wandb/run-20241116_142038-jeetmdhl" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <content url="file://$USER_HOME$/gensim-data" />
-    <orderEntry type="jdk" jdkName="nlp-testing" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="nlp" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
