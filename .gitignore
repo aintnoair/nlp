@@ -172,5 +172,5 @@ project-1/best_model.pth
 /project-3/wandb
 
 *.ckpt
-/project-4/lightning_logs
+/project-4/lightning_logs/
 
