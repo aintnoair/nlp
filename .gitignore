@@ -170,7 +170,11 @@ project-1/best_model.pth
 /project-3/checkpoints
 /project-3/nlp_p3_transformer
 /project-3/wandb
-
-*.ckpt
 /project-4/lightning_logs/
+/project-4/nlp-p4-pretrained_transformers/
+project-4/wandb/
+
+# model checkpoints
+*.ckpt
+
 
